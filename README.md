@@ -3,7 +3,7 @@ Computer Networks
 
 ## Images
 UDP:
-![](/imgs/udp1.PNG)
+<img src="/imgs/udp1.PNG" width="200">
 
 ![](/imgs/udp2.PNG)
 
