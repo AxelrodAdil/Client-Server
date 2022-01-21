@@ -3,8 +3,8 @@ Computer Networks
 
 ## Images
 UDP:
-<img src="/imgs/udp1.PNG" width="200">
 
+![](/imgs/udp1.PNG)
 ![](/imgs/udp2.PNG)
 
 TCP:
