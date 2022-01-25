@@ -3,6 +3,11 @@ Computer Networks
 
 ## Images
 ```
+Chat:
+```
+
+
+```
 UDP:
 ```
 ![](/imgs/udp1.PNG)
@@ -10,6 +15,6 @@ UDP:
 
 ```
 TCP:
+```
 ![](/imgs/tcp1.PNG)
 ![](/imgs/tcp2.PNG)
-```
