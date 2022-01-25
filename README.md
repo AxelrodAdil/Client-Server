@@ -10,4 +10,6 @@ UDP:
 
 ```
 TCP:
+![](/imgs/tcp1.PNG)
+![](/imgs/tcp2.PNG)
 ```
